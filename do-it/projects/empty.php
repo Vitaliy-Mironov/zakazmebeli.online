@@ -1,0 +1,2 @@
+	<p class="p1 icon-transparent icon-dot">У Вас ещё нет сохранённых проектов. Самое время что-нибудь сотворить! Это просто. Раскройте свой потенциал!</p>
+	<div class="button-active-container"><a href="/do-it/" class="button-active custom-button"><span class="">Создать проект</span></a></div>

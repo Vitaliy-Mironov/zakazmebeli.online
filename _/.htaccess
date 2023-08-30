@@ -1,0 +1,5 @@
+AddType text/html .html .shtml .php
+
+# временное перенаправление
+RewriteEngine on
+Redirect 302 / https://zakazmebeli.pro/

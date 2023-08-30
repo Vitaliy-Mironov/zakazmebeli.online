@@ -1,0 +1,17 @@
+AddType text/html .html .shtml .php
+
+# перенаправление на HTTPS
+RewriteEngine On
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+# страницы ошибок
+ErrorDocument 401 /error/401.php
+ErrorDocument 403 /error/403.php
+ErrorDocument 404 /error/404.php
+ErrorDocument 500 /error/500.php
+
+# запрет доступа к папкам
+Options All -Indexes
+
+

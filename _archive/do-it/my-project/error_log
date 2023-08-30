@@ -1,0 +1,23 @@
+[20-Feb-2021 15:26:19 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[14-Mar-2021 19:47:10 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[14-Mar-2021 19:47:45 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[14-Mar-2021 19:47:51 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/zakazmeb/zakazmebeli.online/do-it/my-project/clear.php on line 2
+[18-Mar-2021 13:41:21 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[12-Apr-2021 07:12:33 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[12-Apr-2021 20:30:21 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[12-Apr-2021 20:34:30 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[12-Apr-2021 20:34:33 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[02-May-2021 18:32:42 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[02-May-2021 18:33:59 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[02-May-2021 18:34:03 Europe/Minsk] PHP Notice:  Undefined index: project_id in /home/zakazmeb/zakazmebeli.online/do-it/my-project/delete.php on line 5
+[02-May-2021 18:34:03 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/zakazmeb/zakazmebeli.online/do-it/my-project/clear.php on line 2
+[28-May-2021 16:44:01 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[28-May-2021 16:44:37 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[11-Jun-2021 15:34:56 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[11-Jun-2021 15:35:33 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[08-Aug-2021 21:55:43 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[08-Aug-2021 21:56:34 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[08-Aug-2021 21:56:43 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[17-Aug-2021 21:31:36 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[18-Aug-2021 21:08:13 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
+[18-Aug-2021 21:08:49 Europe/Minsk] PHP Notice:  Undefined index: unsess in /home/zakazmeb/zakazmebeli.online/include/html_start.php on line 14
